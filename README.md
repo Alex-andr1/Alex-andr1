@@ -8,8 +8,8 @@
 - 💬 Ask me about how to align any div to the center of the ✨universe✨.
 - ⚡ Fun fact: JavaScript doesn't have his personal mascot. How do you like this cute guy? 🦏
   
-  ![p6Im--ae3R4](https://user-images.githubusercontent.com/89207109/198846068-804c1545-64d1-4470-9596-ef990de3105b.jpg)
-  
+  ![javascriptmascot1](https://user-images.githubusercontent.com/89207109/198847247-d6c79513-be19-40ec-8b04-e2796ff9b04a.jpg)
+
 <!--
 ### Visit my personal website https://... 👍
 -->
