@@ -9,5 +9,5 @@
 - ⚡ Fun fact: JavaScript doesn't have his personal mascot. How do you like this cute guy? 🦏
   
   ![javascriptmascot1](https://user-images.githubusercontent.com/89207109/198847247-d6c79513-be19-40ec-8b04-e2796ff9b04a.jpg)
----
+
 ### Visit my personal website [My_site](https://aleksandrlobanov.ru/) 👍
